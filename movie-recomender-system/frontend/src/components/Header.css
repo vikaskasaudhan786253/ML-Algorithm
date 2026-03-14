@@ -1,0 +1,19 @@
+.header {
+    min-width: 100%;
+    min-height: 50px;
+    background-color: #1a1a1a;
+    position: fixed;
+    color: white;
+}
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+    padding: 15px;
+    margin: 0;
+    justify-content: flex-start;
+}
+.navbar ul li {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 1.2em;
+}
